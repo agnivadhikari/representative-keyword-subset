@@ -1,4 +1,4 @@
-This README lists the prerequisites, steps etc. to run the programs to generate the representative keyword subset for an academic conference occurring over a couple of years.
+<b>This README lists the prerequisites, steps etc. to run the programs to generate the representative keyword subset for an academic conference occurring over a couple of years.</b>
 
 1. The file <generate_largest_component_from_keywords.py> contains the program to generate the representative keyword subset for an academic conference occurring over a couple of years. The program needs the html data files to be stored in the parent folder in a folder called \<html\>. The files for the individual years are to be stored in the folders for each particular year e.g. <2017>, <2016> etc. The file name is the DOI of the paper.
 
